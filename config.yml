@@ -1,4 +1,4 @@
-baseurl: "/"
+baseurl: "/fresh-unibit"
 title: "Stackbit Fresh Theme"
 init_js: "js/init.js"
 page_load_js: "js/page-load.js"
